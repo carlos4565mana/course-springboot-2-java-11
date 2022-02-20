@@ -2,7 +2,6 @@ package com.carlos.course.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
-
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;
 import javax.persistence.Table;
